@@ -35,7 +35,7 @@ with all API compatibility though.
 Log::Dispatch::Config jest to podklasa Log::Dispatch udostêpniaj±ca
 metodê konfiguracji obiektu Log::Dispatch za pomoc± pliku
 konfiguracyjnego (domy¶lnie w formacie AppConfig). Oznacza to, ¿e jest
-to log4j dla Perla, nie koniecznie zgopdne ze wszystkimi API.
+to log4j dla Perla, nie koniecznie zgodne ze wszystkimi API.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
