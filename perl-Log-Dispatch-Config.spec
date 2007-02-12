@@ -6,7 +6,7 @@
 %define		pdir	Log
 %define		pnam	Dispatch-Config
 Summary:	Log::Dispatch::Config - Log4j for Perl
-Summary(pl):	Log::Dispatch::Config - Log4j dla Perla
+Summary(pl.UTF-8):   Log::Dispatch::Config - Log4j dla Perla
 Name:		perl-Log-Dispatch-Config
 Version:	1.01
 Release:	2
@@ -31,10 +31,10 @@ way to configure Log::Dispatch object with configuration file
 (default, in AppConfig format). I mean, this is log4j for Perl, not
 with all API compatibility though.
 
-%description -l pl
-Log::Dispatch::Config jest to podklasa Log::Dispatch udostêpniaj±ca
-metodê konfiguracji obiektu Log::Dispatch za pomoc± pliku
-konfiguracyjnego (domy¶lnie w formacie AppConfig). Oznacza to, ¿e jest
+%description -l pl.UTF-8
+Log::Dispatch::Config jest to podklasa Log::Dispatch udostÄ™pniajÄ…ca
+metodÄ™ konfiguracji obiektu Log::Dispatch za pomocÄ… pliku
+konfiguracyjnego (domyÅ›lnie w formacie AppConfig). Oznacza to, Å¼e jest
 to log4j dla Perla, nie koniecznie zgodne ze wszystkimi API.
 
 %prep
