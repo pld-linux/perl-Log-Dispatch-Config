@@ -6,7 +6,7 @@
 %define		pdir	Log
 %define		pnam	Dispatch-Config
 Summary:	Log::Dispatch::Config - Log4j for Perl
-Summary(pl.UTF-8):   Log::Dispatch::Config - Log4j dla Perla
+Summary(pl.UTF-8):	Log::Dispatch::Config - Log4j dla Perla
 Name:		perl-Log-Dispatch-Config
 Version:	1.01
 Release:	2
