@@ -8,13 +8,13 @@
 Summary:	Log::Dispatch::Config - Log4j for Perl
 Summary(pl.UTF-8):	Log::Dispatch::Config - Log4j dla Perla
 Name:		perl-Log-Dispatch-Config
-Version:	1.01
-Release:	2
+Version:	1.02
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	9d9b7b5d3426819e6b6e14e91b867242
+# Source0-md5:	9fe652d4c260daf65f703f7aa3b59fcb
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 %if %{with tests}
